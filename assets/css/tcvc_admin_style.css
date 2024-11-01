@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+.redux-container-image_select .redux-image-select > li {
+	padding:15px !important;
+}
+.redux-container-image_select ul.redux-image-select li {
+	vertical-align:top;
+}
